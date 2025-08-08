@@ -2,7 +2,6 @@
 
 ## 📌 Overview
 This **Power BI dashboard** provides a comprehensive view of customer behavior, sales performance, and satisfaction metrics by combining two rich datasets:
-- **Brazilian E-Commerce Public Dataset (Olist)**
 - **E-Commerce Behavior Data (Multi-Category Store)**
 
 The dashboard offers **real-time, interactive analytics** with slicers and KPIs to help decision-makers monitor performance, identify trends, and improve business strategy.
@@ -40,3 +39,16 @@ The dashboard offers **real-time, interactive analytics** with slicers and KPIs 
 ---
 
 ## 📂 Project Structure
+**📁 E-Commerce-Dashboard
+**│
+**├── Dashboard.pbix # Power BI Project File
+**├── README.md # Project Documentation
+**├── data/
+**│ ├── olist_ecommerce_dataset.csv
+**│ └── ecommerce_behavior.csv
+**└── images/
+**├── dashboard_overview.png
+**├── customer_insights.png
+**└── product_performance.png
+
+
