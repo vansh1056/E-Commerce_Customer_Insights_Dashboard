@@ -38,22 +38,6 @@ The dashboard offers **real-time, interactive analytics** with slicers and KPIs 
 
 ---
 
-## 📂 Project Structure
-📁 E-Commerce-Dashboard
-│
-├── Dashboard.pbix # Power BI Project File
-├── README.md # Project Documentation
-├── data/
-│ ├── olist_ecommerce_dataset.csv
-│ └── ecommerce_behavior.csv
-└── images/
-├── dashboard_overview.png
-├── customer_insights.png
-└── product_performance.png
-
-
----
-
 ## 🚀 How to Use
 1. Download the [`Dashboard.pbix`](Dashboard.pbix) file from this repository.
 2. Open it in **Power BI Desktop**.
