@@ -54,12 +54,6 @@ The dashboard offers **real-time, interactive analytics** with slicers and KPIs 
 
 ---
 
-## 📸 Screenshots
-**1️⃣ Executive Overview**
-[Overview](Images/Overview.jpg)
-
----
-
 ## 🚀 How to Use
 1. Download the [`Dashboard.pbix`](Dashboard.pbix) file from this repository.
 2. Open it in **Power BI Desktop**.
